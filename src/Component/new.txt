@@ -1,0 +1,7 @@
+ color: "",
+        listPrice: 0,
+        name: "",
+        productNumber: "",
+        size: 0,
+        standardCost: 0,
+        weight: 0,
